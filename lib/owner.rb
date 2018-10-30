@@ -3,7 +3,7 @@ class Owner
   
   def initialize(name)
     @name = name
-    @@all.push(name)
+    @@all.push(self)
   end
   
   def self.all
