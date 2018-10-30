@@ -2,7 +2,7 @@ class Owner
 
   @@all = []
   
-  def inialize
+  def initialize
     
   end
 end
