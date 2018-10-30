@@ -8,7 +8,7 @@ class Cat
   end
   
   def mood
-    binding.pry
+    # binding.pry
     puts "nervous"
   end
 end
