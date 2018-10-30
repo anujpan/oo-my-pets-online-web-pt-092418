@@ -7,8 +7,4 @@ class Cat
     @name = name
   end
   
-  def mood
-    # binding.pry
-    puts "nervous"
-  end
 end
